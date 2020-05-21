@@ -108,4 +108,6 @@ export var port = 3000
 
 ## 10.Default rest & spread Operator
 ## 11.New data structures like Map and Set
-
+## Top Javascript Concepts :
+https://www.sitepoint.com/implementing-memoization-in-javascript/
+https://medium.com/@madasamy/15-javascript-concepts-that-every-nodejs-programmer-must-to-know-6894f5157cb7
